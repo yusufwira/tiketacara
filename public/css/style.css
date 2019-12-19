@@ -1,0 +1,65 @@
+html{
+	position: relative;
+}
+
+
+/*.navbar .navbar-form .form-group{
+	border-radius: 100px;
+}*/
+
+body{
+	margin-bottom: 100px;
+	margin-top: 50px;
+}
+
+hr{
+	width: 250px;
+	border-top: 2px solid black;
+}
+
+.sale{
+	background-color: #eee;
+}
+
+.sale .thumbnail img{
+	height: 200px;
+}
+
+.sale b{
+	font-size: 20px; 
+}
+
+.product img{
+	width: 242px;
+	height: 200px;
+}
+
+footer{
+	position: absolute;
+	width: 100%;
+	height: 100px;
+	bottom: 0;
+	background-color: black;
+	padding-top: 30px;
+
+}
+
+footer p {
+	color: #aaa;
+	font-size: 0.9em;
+
+}
+
+.login{
+	height: 500px;
+}
+
+.login .btn{
+	width: 100%;
+}
+
+.detil_produk hr{
+	width: 100%;
+}
+
+
